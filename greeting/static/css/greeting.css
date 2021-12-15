@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    }
+    .container {
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 98vh;
+    position: relative;
+    display: block;
+    }
+    .greetings {
+    height: 400px;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    }
+    .line1 {
+    font-family: 'Lucida Sans';
+    text-align: center;
+    font-size: 100px;
+    padding-top: 20px;
+    display: inline;
+    }
+    .line2 {
+    font-family:'apple-system';
+    text-align: center;
+    font-size: 65px;
+    padding-top: 20px;
+    } 
+    .line3 {
+    font-family: 'Lucida Sans';
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+    }
+    .color1 {
+    color: #1ba10a;
+    }
+    .color2 {
+    color: #057527;
+    }
+    .color3 {
+    background-color: #31d309d2;
+    }
+    .designer {
+    font-family: 'Arial Narrow Bold';
+    font-size: 22px;
+    display: inline;
+    position: relative;
+    left: 550px;
+    top: 20px;
+    }
+    .institution {
+    font-family: Arial;
+    font-size: 20px;
+    display: inline;
+    position: relative;
+    left: 500px;
+    top: 20px;
+    }
+    .design {
+    font-family: Arial;
+    text-align: center;
+    font-size: 100px;
+    padding-top: 30px;
+    display: block;
+    }
+    .image {
+    display: inline;
+    }
